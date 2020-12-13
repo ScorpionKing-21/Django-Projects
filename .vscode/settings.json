@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\patel\\anaconda3\\envs\\myDjangoEnv\\python.exe",
+    "python.linting.pylintPath": "pylint_django"
+}
